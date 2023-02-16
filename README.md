@@ -1,4 +1,4 @@
-# Project 3: Algorithmic developments for reconstructing air-sea CO$_2$ exchange
+# Project 3: Algorithmic developments for reconstructing air-sea CO_2 exchange
 
 ### [Full Project Description](doc/project3_desc.md)
 
